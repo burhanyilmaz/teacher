@@ -1,0 +1,18 @@
+{
+  "name": "@bit/burhanyilmaz.packages.navigation",
+  "version": "0.0.1",
+  "homepage": "https://bit.dev/burhanyilmaz/packages/navigation",
+  "main": "index.tsx",
+  "componentId": {
+    "scope": "burhanyilmaz.packages",
+    "name": "navigation",
+    "version": "0.0.1"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {},
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {}
+  }
+}

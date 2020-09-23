@@ -1,0 +1,23 @@
+{
+  "name": "@bit/burhanyilmaz.packages.design",
+  "version": "0.0.3",
+  "homepage": "https://bit.dev/burhanyilmaz/packages/design",
+  "main": "Avatar/index.tsx",
+  "componentId": {
+    "scope": "burhanyilmaz.packages",
+    "name": "design",
+    "version": "0.0.3"
+  },
+  "dependencies": {
+    "react-native": "0.63.2",
+    "react": "16.13.1"
+  },
+  "devDependencies": {
+    "@types/react-native": "^0.63.2"
+  },
+  "peerDependencies": {},
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {}
+  }
+}

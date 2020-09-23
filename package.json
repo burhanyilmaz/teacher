@@ -10,9 +10,13 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
-    "@educa/components": "^0.0.16",
     "react": "16.13.1",
-    "react-native": "0.63.2"
+    "react-native": "0.63.2",
+    "@bit/burhanyilmaz.packages.design": "file:./components/design",
+    "@bit/burhanyilmaz.packages.i18n": "file:./components/i18n",
+    "@bit/burhanyilmaz.packages.navigation": "file:./components/navigation",
+    "@bit/burhanyilmaz.packages.store": "file:./components/store",
+    "@bit/burhanyilmaz.packages.types": "file:./components/types"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",

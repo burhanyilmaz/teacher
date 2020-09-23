@@ -1,0 +1,18 @@
+{
+  "name": "@bit/burhanyilmaz.packages.types",
+  "version": "0.0.2",
+  "homepage": "https://bit.dev/burhanyilmaz/packages/types",
+  "main": "index.tsx",
+  "componentId": {
+    "scope": "burhanyilmaz.packages",
+    "name": "types",
+    "version": "0.0.1"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {},
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {}
+  }
+}
